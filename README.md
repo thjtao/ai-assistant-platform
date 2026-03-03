@@ -83,7 +83,7 @@ ai-assistant-platform/
 ### 1. 克隆项目
 
 ```bash
-git clone https://github.com/你的用户名/ai-assistant-platform.git
+git clone https://github.com/thjtao/ai-assistant-platform.git
 cd ai-assistant-platform
 ```
 
